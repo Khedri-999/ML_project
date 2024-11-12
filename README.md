@@ -1,6 +1,5 @@
 ## Solubility Prediction with Machine Learning
-This project explores the use of machine learning techniques to predict the solubility of molecules, a crucial parameter for drug discovery.
-It utilizes the scikit-learn library in Python to build and evaluate models on a publicly available dataset. 
+This repository contains a Python-based machine learning project aimed at predicting the solubility of molecules. It utilizes the scikit-learn library to build and evaluate models on a publicly available dataset. The project explores various machine learning techniques, including linear regression and random forest, to predict the solubility of molecules based on their molecular properties. 
 ## Dataset
 The dataset contains 1444 rows (molecules) and 5 columns:
 
